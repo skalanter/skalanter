@@ -2,9 +2,11 @@
 
 [![Mark Mead Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skalanter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![SKALANTER](https://pbs.twimg.com/profile_banners/320268917/1612536281/1500x500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=skalanter&show_icons=true&title_color=fff&icon_color=0719a3&text_color=9f9f9f&bg_color=000000)
 
 <!--
+![SKALANTER](https://pbs.twimg.com/profile_banners/320268917/1612536281/1500x500)
+
 **skalanter/skalanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
