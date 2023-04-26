@@ -4,7 +4,7 @@ Black — & Blue. <br />
 UI / UX designer & developer at [Modernaweb Studio](https://github.com/modernaweb) —  mostly [#WordPress](https://modernaweb.net/).<br />
 d-sgn: https://modernaweb.net/dsgn/<br /><br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=skalanter&show_icons=true&title_color=fff&icon_color=0719a3&text_color=9f9f9f&bg_color=000000)
+![Anurag's GitHub stats](https://modernaweb.net/skalanter.svg)
 
 <!--
 ![SKALANTER](https://pbs.twimg.com/profile_banners/320268917/1612536281/1500x500)
